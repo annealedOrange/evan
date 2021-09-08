@@ -7,3 +7,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/4132332/132278671-095fb28b-ccd7-406a-ac24-f6bcbcc9b2b3.png" alt="sem photo of alumina with gallium contamination" style="width:60%" align="center"><figcaption align = "center">Figure: The effects of reaction temperature on Ga contamination for 0.1, 0.5, 1, and 3 wt% Al alloys </figcaption>
 </p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/4132332/132280337-30ef08a3-13f6-4ea3-89ce-d82c53bbfb40.jpg" alt="sem photo of alumina with gallium contamination" style="width:60%" align="center"><figcaption align = "center">Figure: The effects of reaction temperature on Ga contamination for 3wt% Al alloy </figcaption>
+</p>
