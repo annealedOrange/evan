@@ -1,4 +1,41 @@
-## High purity alumina + hydrogen gas through hydrothermal oxidation of Al-Ga alloys
+### Microstructure
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/4132332/132602598-cb54c47f-ae7f-49ec-8c24-f7e3f1a816af.jpg" alt="fracture surface of a screw that underwent hydrogen embrittlement" style="width:60%" align="center"><figcaption align = "center">Figure 1: Steel microstructure show a carburized layer, indicating that the sample has been case hardened.</figcaption>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/4132332/132602816-d083e3fc-0310-417e-a0fd-c79601a32de5.jpg" alt="fracture surface of a screw that underwent hydrogen embrittlement" style="width:60%" align="center"><figcaption align = "center">Figure 2: Microstructure of a copper infiltrated powder metal steel with chrome plating.</figcaption>
+</p>
+
+
+### Fracture Analysis
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/4132332/132600457-b6625934-7c89-4f75-96ee-14f3e6432e2e.jpg" alt="fracture surface of a screw that underwent hydrogen embrittlement" style="width:60%" align="center"><figcaption align = "center">Figure 1: Fracture surface of a screw that underwent hydrogen embrittlement. Faceted features suggest intergranular brittle fracture.</figcaption>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/4132332/132600699-de1652df-f0cf-499f-9d9b-07e954982604.png" style="width:60%" align="center"><figcaption align = "center">Figure 2: SEM image of fracture surface of a screw that underwent hydrogen embrittlement. Intergranular morphology was observed and no corrosive elements were detected.</figcaption>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/4132332/132601064-80d16202-b92c-4037-afe3-4eb8fa2055e5.png" style="width:60%" align="center"><figcaption align = "center">Figure 3: SEM image of fracture surface of a washer that cracked after salt fog testing. Intergranular fracture was observed. Globular features on the fracture surface may be zinc plating, which would indicate a pre-existing crack.</figcaption>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/4132332/132601856-275999b0-52bc-49d9-b309-4e254019dbf7.png" style="width:40%" align="center"><figcaption align = "center">Figure 4: EDS mapping show high amounts of zinc on the fracture surface, along with corrosive elements such as sodium.</figcaption>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/4132332/132602128-3d2bb5de-7eac-41a9-831a-587955834303.jpg" style="width:60%" align="center"><figcaption align = "center">Figure 5: Fracture surface of a sample that shows rachet marks, which indicates fatigue fracture.</figcaption>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/4132332/132602447-25986ab9-466e-4a50-92fd-e1198c0cce6b.png" style="width:60%" align="center"><figcaption align = "center">Figure 6: SEM image of the fracture surface that shows fatigue striations, which indicates fatigue fracture.</figcaption>
+</p>
+
+### High purity alumina + hydrogen gas through hydrothermal oxidation of Al-Ga alloys
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/4132332/132273383-8a59e55c-b297-4f5f-b03a-cd3b77166431.png" alt="sem photo of alumina with gallium contamination" style="width:60%" align="center"><figcaption align = "center">Figure 1: Alumina produced from 2wt% Al alloy in room temperature water under nitrogen atmosphere. Gallium contamination is illustrated in backscattered electron images since gallium has a higher atomic number and produces more backscattering. EDS results show 10.5% gallium in the alumina. </figcaption>
@@ -14,5 +51,5 @@
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/4132332/132437850-db0bcfdb-8442-4f03-8c5b-40c74590978a.png"
- alt="xrd diffraction pattern of boehmite and psuedoboehmite" style="width:60%" align="center"><figcaption align = "center">Figure 4: Precipitation temperatures as low as 90C can favor the boehmite(left) or psuedoboehmite(right) structure (AlOOH), as opposed to the gibbsite structure (AlOH3) common at room temperature. The decrease in OH- in the structure decreases the adsorption sites for gallium. <a href="https://www.scielo.br/j/mr/a/gsqGCdQ9wbzDbWSY7qtpxzJ/?format=pdf&lang=en">Source</a></figcaption>
+ alt="xrd diffraction pattern of boehmite and psuedoboehmite" style="width:60%" align="center"><figcaption align = "center">Figure 4: Precipitation temperatures as low as 90C can favor the boehmite(left) or psuedoboehmite(right) structure (AlOOH), as opposed to the gibbsite structure (AlOH3) common at room temperature. The decrease in OH- group in the structure decreases the adsorption sites for gallium. <a href="https://www.scielo.br/j/mr/a/gsqGCdQ9wbzDbWSY7qtpxzJ/?format=pdf&lang=en">Source</a></figcaption>
 </p>
