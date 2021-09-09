@@ -16,11 +16,11 @@
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/4132332/132600699-de1652df-f0cf-499f-9d9b-07e954982604.png" style="width:60%" align="center"><figcaption align = "center">Figure 2: SEM image of fracture surface of a screw that underwent hydrogen embrittlement. Intergranular morphology was observed and no corrosive elements were detected.</figcaption>
+<img src="https://user-images.githubusercontent.com/4132332/132603709-cc00d38c-7fd5-4cb6-a0d5-6d759c0d6e9c.jpg" style="width:60%" align="center"><figcaption align = "center">Figure 2: SEM image of fracture surface of a screw that underwent hydrogen embrittlement. Intergranular morphology was observed and no corrosive elements were detected.</figcaption>
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/4132332/132601064-80d16202-b92c-4037-afe3-4eb8fa2055e5.png" style="width:60%" align="center"><figcaption align = "center">Figure 3: SEM image of fracture surface of a washer that cracked after salt fog testing. Intergranular fracture was observed. Globular features on the fracture surface may be zinc plating, which would indicate a pre-existing crack.</figcaption>
+<img src="https://user-images.githubusercontent.com/4132332/132603494-4a6a6926-7fa1-451a-aee2-ad2850b31089.jpg" style="width:60%" align="center"><figcaption align = "center">Figure 3: SEM image of fracture surface of a washer that cracked after salt fog testing. Intergranular fracture was observed. Globular features on the fracture surface may be zinc plating, which would indicate a pre-existing crack.</figcaption>
 </p>
 
 <p align="center">
@@ -32,7 +32,8 @@
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/4132332/132602447-25986ab9-466e-4a50-92fd-e1198c0cce6b.png" style="width:60%" align="center"><figcaption align = "center">Figure 6: SEM image of the fracture surface that shows fatigue striations, which indicates fatigue fracture.</figcaption>
+<img src="https://user-images.githubusercontent.com/4132332/132603751-5cfb6c5a-5be0-41ae-a3c7-54e9d4fce924.jpg"
+ style="width:60%" align="center"><figcaption align = "center">Figure 6: SEM image of the fracture surface that shows fatigue striations, which indicates fatigue fracture.</figcaption>
 </p>
 
 ### High purity alumina + hydrogen gas through hydrothermal oxidation of Al-Ga alloys
