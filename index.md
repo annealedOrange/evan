@@ -1,15 +1,19 @@
-### Microstructure
+### Materials 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/4132332/132602598-cb54c47f-ae7f-49ec-8c24-f7e3f1a816af.jpg" alt="fracture surface of a screw that underwent hydrogen embrittlement" style="width:60%" align="center"><figcaption align = "center">Figure 1: Steel microstructure show a carburized layer, indicating that the sample has been case hardened.</figcaption>
+<img src="https://user-images.githubusercontent.com/4132332/132602598-cb54c47f-ae7f-49ec-8c24-f7e3f1a816af.jpg" alt="carburized steel microstructure" style="width:60%" align="center"><figcaption align = "center">Figure 1: Steel microstructure show a carburized layer, indicating that the sample has been case hardened.</figcaption>
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/4132332/132602816-d083e3fc-0310-417e-a0fd-c79601a32de5.jpg" alt="fracture surface of a screw that underwent hydrogen embrittlement" style="width:60%" align="center"><figcaption align = "center">Figure 2: Microstructure of a copper infiltrated powder metal steel with chrome plating.</figcaption>
+<img src="https://user-images.githubusercontent.com/4132332/132602816-d083e3fc-0310-417e-a0fd-c79601a32de5.jpg" alt="powder metal steel with copper infiltration" style="width:60%" align="center"><figcaption align = "center">Figure 2: Microstructure of a copper infiltrated powder metal steel with chrome plating.</figcaption>
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/4132332/189590738-51fc298b-625f-4518-b293-a68116ce4ccc.png" alt="antimony telluride nanoplates" style="width:60%" align="center"><figcaption align = "center">Figure 3: Synthesized antimony telluride nanoplates with small amounts of tellurium nanorods.</figcaption>
+</p>
 
 ### Fracture Analysis
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/4132332/132600457-b6625934-7c89-4f75-96ee-14f3e6432e2e.jpg" alt="fracture surface of a screw that underwent hydrogen embrittlement" style="width:60%" align="center"><figcaption align = "center">Figure 1: Fracture surface of a screw that underwent hydrogen embrittlement. Faceted features suggest intergranular brittle fracture.</figcaption>
