@@ -83,6 +83,10 @@ ul li {
 
 figcaption {
     font-weight: 400;
-    font-size: 1em;
+    font-size: 0.75em;
     color: #000000;
+}
+
+img {
+    width: "60%";
 }
