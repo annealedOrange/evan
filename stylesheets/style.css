@@ -52,7 +52,7 @@ p {
 }
 a {
     text-decoration: none;
-    color: #07C1FA;
+    color: #0085AD;
 }
 a:hover {
     text-decoration: underline;
@@ -79,4 +79,10 @@ ul li {
     header {
         font-size: 2em;
     }
+}
+
+figcaption {
+    font-weight: 400;
+    font-size: 1em;
+    color: #000000;
 }
